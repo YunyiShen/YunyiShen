@@ -1,7 +1,12 @@
-### Hi there 👋
+### Show me the Code!
 
 <!--
 **YunyiShen/YunyiShen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+|   Contributions   |   Language Preference   |
+| ---- | ---- |
+|   ![](https://github-readme-stats.vercel.app/api?username=YunyiShen&count_private=true&show_icons=true&theme=radical)   |![](https://github-readme-stats.vercel.app/api/top-langs/?username=YunyiShen&count_private=true&show_icons=true&theme=radical&layout=compact)|
+
 
 Here are some ideas to get you started:
 
