@@ -1,7 +1,5 @@
 
-|   Language Preference   |
-| ---- |
-|![](https://github-readme-stats.vercel.app/api/top-langs/?username=YunyiShen&count_private=true&show_icons=true&theme=radical&layout=compact&hide=HTML,JavaScript)|
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YunyiShen&count_private=true&show_icons=true&theme=radical&layout=compact&hide=HTML,JavaScript)
 
 I’m a statistician working on biological, especially ecological questions. Currently a master student in statistics and wildlife ecology at UW-Madison. 
 
