@@ -1,7 +1,13 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YunyiShen&count_private=true&show_icons=true&theme=radical&layout=compact&hide=HTML,JavaScript)
 
-I’m a statistician working on biological, especially ecological questions. Currently a master student in statistics and wildlife ecology at UW-Madison. 
+I’m a statistician working on biological, especially ecological questions. Also have some interest in astrostatistics. Currently a PhD student in statistics at the University of Toronto.
+
+- 🔭 I’m currently working on HMMs in astronomy and ecology
+- 🌱 I’m currently learning statistics
+- 👯 I’m looking to collaborate on any quantitative ecology stuff
+- 📫 How to reach me: yshen99@wisc.edu
+- ⚡ Fun fact: I never managed to really see what I am studying. Include but not limited to: asiatic black bear, marten, coyote, and of course, exoplanet. 
 
 <!--
 **YunyiShen/YunyiShen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
