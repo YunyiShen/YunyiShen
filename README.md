@@ -1,5 +1,5 @@
 
-I’m a statistician working on biological, especially ecological questions. Also have some interest in astrostatistics. Currently a PhD student in statistics at the University of Toronto.
+I’m a statistician working on biological, especially ecological questions. Also have some interest in astrostatistics. Currently an incoming PhD student in statistics at the University of Toronto.
 
 Quick Facts:
 
