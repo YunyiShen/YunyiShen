@@ -7,7 +7,7 @@ Quick Facts:
 - 🌱 I’m currently learning statistics. The most recent project is detecting [flares](https://en.wikipedia.org/wiki/Solar_flare) of [M-dwarfs](https://en.wikipedia.org/wiki/Red_dwarf) using data from [TESS mission](https://tess.mit.edu/). 
 - 👯 I’m looking to collaborate on any statistical ecology/astronomy stuff
 - 📫 How to reach me: yshen99@wisc.edu
-- ⚡ Fun fact: I never managed to really see what I am studying. Include but not limited to: asiatic black bear, marten, coyote, and of course, M-dwarfs. 
+- ⚡ Fun fact: Intro to Statistics is one of the courses I got worst score during undergrad. 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YunyiShen&count_private=true&show_icons=true&theme=radical&layout=compact&hide=HTML,JavaScript)
 
