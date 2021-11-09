@@ -1,5 +1,5 @@
 
-I’m a statistician working on ecological (and some other biological) questions. Also have some interest in astrostatistics, particularly astronomical time series. Currently an incoming PhD student in statistics at the University of Toronto but in a gap year physically located in Madison WI.
+I’m a statistician working on ecological (and some other biological) questions. Also have some interest in astrostatistics, particularly astronomical time series. Currently in a gap year physically located in Madison WI.
 
 Quick Facts:
 
