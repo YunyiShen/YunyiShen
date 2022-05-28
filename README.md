@@ -4,7 +4,7 @@ I am a PhD student in the EECS department at MIT affiliated with [LIDS](https://
 Quick Facts:
 
 - 🔭 I’m currently working on statistical problems in ecology, biology and astronomy
-- 🌱 I’m currently learning statistics. The most recent projects are: 
+- 🌱 I’m currently learning statistics (in a CS department). The most recent projects are: 
   - Bayesian nonparametrics for rare variant association studies, Beta processes and extensions, and potential application in biodiversity survey;
   - graphical and variable selection of Gaussian chain graph models using LASSO/spike-and-slab LASSO, their theory, interpretations and applications in community ecology;
   - population estimation of snow leopard and survey design.  
