@@ -1,5 +1,5 @@
 
-I am a PhD student in the EECS department at MIT affiliated with [LIDS](https://lids.mit.edu/). I study Bayesian nonparametrics, variable selection and their applications in ecological (and some other biological) questions. Also have some interest in astrostatistics, particularly astronomical time series data collected by space telescopes. 
+I am a PhD student in the EECS department at MIT affiliated with [LIDS](https://lids.mit.edu/). I study Bayesian nonparametrics, variable selection and their applications in ecological (and some other biological) questions. Also have some interest in astrostatistics, particularly photometric and spectrum time series data collected by space telescopes. 
 
 Quick Facts:
 
