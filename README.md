@@ -5,9 +5,10 @@ Quick Facts:
 
 - 🔭 I’m currently working on statistical problems in ecology, biology and astronomy
 - 🌱 I’m currently learning statistics (in a CS department). The most recent projects are: 
+  - Bayesian nonparametric for multivariate models, multivariate random measures;   
   - Bayesian nonparametrics for rare variant association studies, Beta processes and extensions, and potential application in biodiversity survey;
-  - graphical and variable selection of Gaussian chain graph models using LASSO/spike-and-slab LASSO, their theory, interpretations and applications in community ecology;
-  - population estimation of snow leopard and survey design.  
+  - graphical and variable selection of Gaussian chain graph models using LASSO/spike-and-slab LASSO, their asymptotic theories, interpretations and applications in community ecology;
+  - population growth and expansion of Wisconsin wolves (*Canis lupus*);  
   - detecting [flares](https://en.wikipedia.org/wiki/Solar_flare) of [M-dwarfs](https://en.wikipedia.org/wiki/Red_dwarf) using data from the [TESS mission](https://tess.mit.edu/).
 
 - 👯 I’m looking to collaborate on any statistical ecology/astronomy stuff
