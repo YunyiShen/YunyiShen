@@ -1,5 +1,5 @@
 
-I am a PhD student in the EECS department at MIT affiliated with [LIDS](https://lids.mit.edu/). I study Bayesian nonparametric, variable selection, inverse problems and their applications in ecological, biological and physical problems. I mainly focus on the experimental design aspect when data and problems are structured (spatial, temporal, etc.). On the ecology side, I study population and community aspects of large carnivores (esp. wolves). I also have some interest in astrostatistics, particularly photometric and spectrum time series data collected by space telescopes and designing of simulation based inference.
+I am a PhD student in the EECS department at MIT affiliated with [LIDS](https://lids.mit.edu/). I study statistics and their applications in ecological, biological and physical problems. I mainly focus on cases when data could be represented by some [measures](https://en.wikipedia.org/wiki/Measure_(mathematics)) and the goal is to infer some kind of dynamics in time or some other physical factors, sometimes referred to as "population dynamics" problem but it is different from the ecological use of that term. On the ecology side, I study population and community aspects of large carnivores (esp. wolves) as well as their economic values. On the astronomy side, I study the diversity of supernovae (especially type Ia).
 
 Quick Facts:
 
