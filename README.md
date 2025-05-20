@@ -6,6 +6,6 @@ Quick Facts:
 - 🔭 I’m currently working on statistical problems in ecology, genetics and astronomy
 - 🌱 I’m currently learning statistics (in a CS department) and doing ecology stuff as a side. 
 - 👯 I’m looking to collaborate on any statistical ecology/astronomy stuff
-- 📫 How to reach me: yshen99[at]wisc[dot]edu; yshen99[at]mit[dot]edu
+- 📫 How to reach me: yshen99[at]mit[dot]edu; yshen99[at]outlook[dot]com
 - ⚡ Fun fact: Intro to Statistics is one of the courses I got the worst score during undergrad. 
 
