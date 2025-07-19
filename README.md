@@ -1,5 +1,5 @@
 
-I am a PhD candidate in the EECS department at MIT affiliated with [LIDS](https://lids.mit.edu/). I study statistics and their applications in ecological, biological and physical problems. I mostly interested in inverse problems i.e., inferring (dynamical) system's parameters using observed behavior of the system, e.g., inferring SDEs from unpaired data, understanding fluid dynamics in cell from PIV, reconstruct spectrum from light curves. On the ecology side, I study population and community aspects of large carnivores (esp. wolves and jaguars) as well as their economic values. On the astronomy side, I study the diversity of supernovae (esp. type Ia).
+I am a PhD candidate in the EECS department at MIT affiliated with [LIDS](https://lids.mit.edu/). I study scientific machine learning with application in biology and physics, with applications in genetics, biophysics and astronomy. I used to be a field ecologists and I keep a line of work on large carnivores (big cats and dogs in the wild). I consider myself more of a naturalist liking animals and stars and willing to study them. 
 
 Quick Facts:
 
