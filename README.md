@@ -4,8 +4,7 @@ I am a PhD candidate in the EECS department at MIT affiliated with [LIDS](https:
 Quick Facts:
 
 - 🔭 I’m currently working on statistical/machine learning problems in ecology, genetics and astronomy
-- 🌱 I’m currently studying statistics (in a CS department) and probabilistic machine learning 
-- 👯 I’m starting as an assistant professor this fall, location TBD!
+- 👯 I’m starting as an assistant professor this fall!
 - 📫 How to reach me: yshen99[at]mit[dot]edu; yshen99[at]outlook[dot]com
 - ⚡ Fun fact: Intro to Statistics is one of the courses I got the worst score during undergrad. 
 
