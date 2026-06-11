@@ -2,8 +2,6 @@ I study scientific machine learning and statistics with applications in biology,
 
 Quick Facts:
 
-- 🔭 I’m currently working on statistical/machine learning problems in ecology, genetics and astronomy
-- 👯 I’m starting as an assistant professor this fall!
+- 🔭 I’m currently working on statistical/machine learning problems in biology, physics and astronomy
 - 📫 How to reach me: yunyi.shen[at]alum[dot]mit[dot]edu
-- ⚡ Fun fact: Intro to Statistics is one of the courses I got the worst score during undergrad. 
 
